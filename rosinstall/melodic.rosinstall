@@ -38,4 +38,9 @@
     local-name: segway_v3
     uri: https://github.com/utexas-bwi/segway_v3.git
     version: melodic-devel
+- git:
+    local-name: tamp_perception
+    uri: https://github.com/keke-220/tamp-perception.git
+    version: master
+
 
