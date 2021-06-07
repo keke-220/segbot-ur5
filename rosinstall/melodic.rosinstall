@@ -51,10 +51,6 @@
     uri: https://github.com/JenniferBuehler/gazebo-pkgs.git
     version: master
 - git:
-    local-name: gazebo_ros_2Dmap_plugin
-    uri: https://github.com/marinaKollmitz/gazebo_ros_2Dmap_plugin.git
-    version: master
-- git:
     local-name: roboticsgroup_gazebo_plugins
     uri: https://github.com/roboticsgroup/roboticsgroup_gazebo_plugins.git
     version: master
