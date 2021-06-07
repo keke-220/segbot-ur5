@@ -1,0 +1,1 @@
+[{"image_id": 1, "unloading_result": false, "robot_pose": [135.28350505854488, 154.9038127812953]}, {"image_id": 1, "unloading_result": false, "robot_pose": [164.80730983192814, 191.03390952192422]}]
