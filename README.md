@@ -10,7 +10,7 @@ Create workspace and download repo:
 ```
 mkdir -p ~/test_ws/src
 cd ~/test_ws
-wstool init src https://raw.githubusercontent.com/keke-220/tamp-perception/master/rosinstall/melodic.rosinstall
+wstool init src https://raw.githubusercontent.com/keke-220/segbot-ur5/master/rosinstall/melodic.rosinstall
 ```
 
 Install dependencies:
