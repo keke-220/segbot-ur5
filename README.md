@@ -19,9 +19,10 @@ rosdep update
 rosdep install --from-paths src --ignore-src --rosdistro $ROS_DISTRO -y
 ```
 
-Build everything:
+Build everything and source workspace:
 ```
-catkin build -j2
+catkin build -j6
+source devel/setup.bash
 ```
 
 ## Usage
@@ -30,7 +31,8 @@ Launch banquet environment and bring up mobile manipulator:
 roslaunch tamp_perception segbot_ur5.launch
 ```
 
-Test with a simple pick&place task:
+Open another terminal and test with a simple pick&place task:
 ```
+source devel/setup.bash
 rosrun tamp_perception pick_n_place.py
 ```
