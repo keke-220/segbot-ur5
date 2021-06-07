@@ -40,7 +40,7 @@
     version: melodic-devel
 - git:
     local-name: tamp_perception
-    uri: https://github.com/keke-220/tamp-perception.git
+    uri: https://github.com/keke-220/segbot-ur5.git
     version: main
 - git:
     local-name: universal_robot
