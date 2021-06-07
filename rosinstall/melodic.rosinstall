@@ -47,10 +47,6 @@
     uri: https://github.com/ros-industrial/universal_robot.git
     version: melodic-devel
 - git:
-    local-name: gazebo-pkgs
-    uri: https://github.com/JenniferBuehler/gazebo-pkgs.git
-    version: master
-- git:
     local-name: roboticsgroup_gazebo_plugins
     uri: https://github.com/roboticsgroup/roboticsgroup_gazebo_plugins.git
     version: master
@@ -58,5 +54,8 @@
     local-name: robotiq
     uri: https://github.com/ros-industrial/robotiq.git
     version: kinetic-devel
-
+- git:
+    local-name: gazebo_ros_2Dmap_plugin
+    uri: https://github.com/marinaKollmitz/gazebo_ros_2Dmap_plugin.git
+    version: master
 
