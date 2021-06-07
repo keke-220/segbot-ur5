@@ -41,6 +41,26 @@
 - git:
     local-name: tamp_perception
     uri: https://github.com/keke-220/tamp-perception.git
+    version: main
+- git:
+    local-name: universal_robot
+    uri: https://github.com/ros-industrial/universal_robot.git
+    version: melodic-devel
+- git:
+    local-name: gazebo-pkgs
+    uri: https://github.com/JenniferBuehler/gazebo-pkgs.git
     version: master
+- git:
+    local-name: gazebo_ros_2Dmap_plugin
+    uri: https://github.com/marinaKollmitz/gazebo_ros_2Dmap_plugin.git
+    version: master
+- git:
+    local_name: roboticsgroup_gazebo_plugins
+    uri: https://github.com/roboticsgroup/roboticsgroup_gazebo_plugins.git
+    version: master
+- git:
+    local_name: robotiq
+    uri: https://github.com/ros-industrial/robotiq.git
+    version: kinetic-devel
 
 
