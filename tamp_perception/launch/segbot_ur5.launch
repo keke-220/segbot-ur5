@@ -16,7 +16,7 @@
     <arg name="use_full_gazebo_model" value="$(arg use_full_gazebo_model)" />
   </include>
 
-  <include file="$(find segbot_bringup)/launch/includes/auxiliary.segbot_v2_ur5.launch.xml" />
+  <include file="$(find tamp_perception)/robots/segbot/launch/auxiliary.segbot_v2_ur5.launch.xml" />
 
   <!-- robot arm controller -->
   <!-- Fake Calibration -->
@@ -24,23 +24,23 @@
         args="pub /calibrated std_msgs/Bool true" />
   
   <!-- joint_state_controller -->
-  <rosparam file="$(find ur_gazebo)/controller/joint_state_controller.yaml" command="load"/>
+  <rosparam file="$(find tamp_perception)/robots/ur5/controller/joint_state_controller.yaml" command="load"/>
   <node name="joint_state_controller_spawner" pkg="controller_manager" type="controller_manager" args="spawn joint_state_controller" respawn="false" output="screen"/>
 
   <!-- start this controller -->
-  <rosparam file="$(find ur_gazebo)/controller/arm_controller_ur5.yaml" command="load"/>
+  <rosparam file="$(find tamp_perception)/robots/ur5/controller/arm_controller_ur5.yaml" command="load"/>
   <node name="arm_controller_spawner" pkg="controller_manager" type="controller_manager" args="spawn arm_controller" respawn="false" output="screen"/>
-  <rosparam file="$(find ur_gazebo)/controller/gripper_controller_ur5.yaml" command="load"/>
+  <rosparam file="$(find tamp_perception)/robots/ur5/controller/gripper_controller_ur5.yaml" command="load"/>
   <node name="gripper_controller_spawner" pkg="controller_manager" type="spawner" args="gripper_controller" output="screen"/>
   <!-- load other controllers -->
   <node name="ros_control_controller_manager" pkg="controller_manager" type="controller_manager" respawn="false" output="screen" args="load joint_group_position_controller" />
 
-  <include file="$(find ur5_moveit_config)/launch/ur5_moveit_planning_execution.launch">
+  <include file="$(find segbot_ur5_moveit_config)/launch/ur5_moveit_planning_execution.launch">
           <arg name="sim" value="true" />
           <arg name="limited" value="true" />
   </include>
 
-  <include file="$(find ur5_moveit_config)/launch/moveit_rviz.launch">
+  <include file="$(find segbot_ur5_moveit_config)/launch/moveit_rviz.launch">
 
           <arg name="config" value="true" />
   </include>
