@@ -8,8 +8,8 @@ Make sure you have installed ROS Melodic and ROS_DISTRO environment variable is 
 
 Create workspace and download repo:
 ```
-mkdir -p ~/test_ws/src
-cd ~/test_ws
+mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws
 wstool init src https://raw.githubusercontent.com/keke-220/segbot-ur5/master/rosinstall/melodic.rosinstall
 ```
 
@@ -33,6 +33,6 @@ roslaunch tamp_perception segbot_ur5.launch
 
 Open another terminal and test with a simple pick&place task:
 ```
-source devel/setup.bash
+source ~/catkin_ws/devel/setup.bash
 rosrun tamp_perception pick_n_place.py
 ```
