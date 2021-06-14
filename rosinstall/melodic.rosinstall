@@ -39,7 +39,7 @@
     uri: https://github.com/utexas-bwi/segway_v3.git
     version: melodic-devel
 - git:
-    local-name: tamp_perception
+    local-name: segbot-ur5
     uri: https://github.com/keke-220/segbot-ur5.git
     version: main
 - git:

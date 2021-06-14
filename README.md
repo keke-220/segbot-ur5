@@ -1,4 +1,4 @@
-# tamp-perception
+# segbot-ur5
 The repo builds on BWI project of UTAustin and contains a mobile manipulator platform in gazebo.
 
 ## Requirments
