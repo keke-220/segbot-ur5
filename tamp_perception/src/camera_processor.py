@@ -16,9 +16,11 @@ class camera_processor(object):
         cv2_img = self.bridge.imgmsg_to_cv2(image_msg, "bgr8")
         
         cv2.imwrite(path, cv2_img)
+    def save_image_both_sides(self, path):
+        print ("") 
 
 if __name__ == '__main__':
     rospy.init_node('camera_processor', anonymous=True)
     test = camera_processor('/top_down_cam/image_raw')
     #test.get_image()
-    test.save_image('test.jpg')
+    test.save_image('78.jpg')

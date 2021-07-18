@@ -3,9 +3,11 @@ import rospy
 import time
 import math
 import random
+import json
 from math import cos, sin
 from gazebo_msgs.srv import SpawnModel, DeleteModel
 from geometry_msgs.msg import Pose, Point, Quaternion
+from camera_processor import camera_processor
 
 class chair_sampler(object):
     """sample different chair locations and spawn them in the gazebo env
@@ -18,10 +20,29 @@ class chair_sampler(object):
         self._oriens = []
         #define sample region
         self._x_range = [-7, 7]
-        self._y_range = [[4.35, 5.35], [6.8, 7.8]]
+        self._y_range = [[4.35, 5.35], [6.65, 7.65]]
         #the minimum distance between two chairs
         self._collision_dist = 0.8
-    
+
+    def reconstruct_env(self, scene_file, scene_id):
+        with open(scene_file, 'r') as f:
+            chair_locations = json.load(f)
+        for scene in chair_locations:
+            if scene["image_id"] == scene_id:
+                self._positions = scene["chair_pose"]
+                self._oriens = scene["chair_orien"]
+        try:
+            spawner = rospy.ServiceProxy("/gazebo/spawn_sdf_model", SpawnModel)
+            for i in range(0, len(self._positions)):
+                spawner(model_name = 'chair_'+str(i+1), 
+                        model_xml = open("/home/xiaohan/.gazebo/models/chair_2/model.sdf", 'r').read(), 
+                        robot_namespace = "/chair", 
+                        initial_pose = Pose(position=Point(self._positions[i][0],self._positions[i][1],0),orientation=self.euler_to_quat(0, 0, self._oriens[i])), 
+                        reference_frame = "world")
+            print("Chairs added.")
+        except rospy.ServiceException as e:
+            print("Spawner fails: ", e)
+
     def get_positions(self):
         return self._positions
 
@@ -44,6 +65,48 @@ class chair_sampler(object):
         y = cr * sp * cy + sr * cp * sy
         z = cr * cp * sy - sr * sp * cy
         return Quaternion(x, y, z, w)
+
+    def sample_pose_both_sides(self):
+        num_sampled = 0
+        pose = []
+        while num_sampled < self._num_chair/2:
+            #sample a random number within the x range
+            x = random.uniform(self._x_range[0], self._x_range[1])
+            #randomly choose to sample on one side of the table
+            #y_range = random.choice(self._y_range)
+            y_range = self._y_range[0]
+            #sample y value
+            y = random.uniform(y_range[0], y_range[1])
+            #check if sampled point is in collision with other existing points
+            is_collision = False
+            for p in pose:
+                if self.distance(p, [x, y]) < self._collision_dist:
+                    is_collision = True
+            if is_collision == False:
+                num_sampled += 1
+                pose.append([x, y])
+        #self._positions = pose
+        while num_sampled < self._num_chair:
+            #sample a random number within the x range
+            x = random.uniform(self._x_range[0], self._x_range[1])
+            #randomly choose to sample on one side of the table
+            #y_range = random.choice(self._y_range)
+            y_range = self._y_range[1]
+            #sample y value
+            y = random.uniform(y_range[0], y_range[1])
+            #check if sampled point is in collision with other existing points
+            is_collision = False
+            for p in pose:
+                if self.distance(p, [x, y]) < self._collision_dist:
+                    is_collision = True
+            if is_collision == False:
+                num_sampled += 1
+                pose.append([x, y])
+        self._positions = pose       
+        #sample orientations
+        for i in range(0, self._num_chair):
+            self._oriens.append(random.uniform((-1)*math.pi, math.pi))
+
 
     def sample_pose(self):
         num_sampled = 0
@@ -84,6 +147,22 @@ class chair_sampler(object):
             print("Chairs added.")
         except rospy.ServiceException as e:
             print("Spawner fails: ", e)
+
+    def spawn_both_sides(self):
+        for i in range(0, self._num_chair):
+            self.sample_pose_both_sides()
+        try:
+            spawner = rospy.ServiceProxy("/gazebo/spawn_sdf_model", SpawnModel)
+            for i in range(0, len(self._positions)):
+                spawner(model_name = 'chair_'+str(i+1), 
+                        model_xml = open("/home/xiaohan/.gazebo/models/chair_2/model.sdf", 'r').read(), 
+                        robot_namespace = "/chair", 
+                        initial_pose = Pose(position=Point(self._positions[i][0],self._positions[i][1],0),orientation=self.euler_to_quat(0, 0, self._oriens[i])), 
+                        reference_frame = "world")
+            print("Chairs added.")
+        except rospy.ServiceException as e:
+            print("Spawner fails: ", e)
+
     def delete_all(self):
 
         try:
@@ -101,7 +180,6 @@ def main():
     #time.sleep(3)
     test.delete_all()
     #test.sample_pose()
-
-
+    test.reconstruct_env("data_100/scenes.txt", 78)
 if __name__ == '__main__':
     main()

@@ -175,7 +175,7 @@ img_infos = []
 test_spawner(model_name = 'grey_wall_protect',
         model_xml = open("/home/xiaohan/.gazebo/models/grey_wall/model.sdf", 'r').read(),
         robot_namespace = "/protect_wall",
-        initial_pose = Pose(position=Point(0,1,0),orientation=Quaternion(0,0,0,1)),
+        initial_pose = Pose(position=Point(0,3,0),orientation=Quaternion(0,0,0,1)),
         reference_frame = "world")
 
 default_state = model_coordinates("distorted_camera","")

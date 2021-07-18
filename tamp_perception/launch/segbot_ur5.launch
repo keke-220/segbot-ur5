@@ -1,19 +1,20 @@
 <launch>
-
   <arg name="use_full_gazebo_model" default="true" />
   
   <!-- launch the simulated world -->
-  <include file="$(find tamp_perception)/launch/segbot_test_world.launch" >
+  <include file="$(find tamp_perception)/launch/segbot_ur5_world.launch">
   </include>
 
   <!-- launch the map server for the simulated world -->
-  <node name="map_server" pkg="map_server" type="map_server" args="$(find tamp_perception)/maps/banquet_table_no_chair.yaml" />
+  <node name="map_server" pkg="map_server" type="map_server" args="$(find tamp_perception)/maps/banquet_table_empty.yaml" />
 
   <!-- launch default robot configuration into the world -->
   <include file="$(find segbot_gazebo)/launch/segbot_mobile_base.launch">
     <arg name="launch_localization" default="true" />
     <arg name="launch_move_base" default="true" />
     <arg name="use_full_gazebo_model" value="$(arg use_full_gazebo_model)" />
+    <arg name="yaw" value="-1.570796327" />
+    <arg name="y" value="2" />
   </include>
 
   <include file="$(find tamp_perception)/robots/segbot/launch/auxiliary.segbot_v2_ur5.launch.xml" />
@@ -26,6 +27,7 @@
   <!-- joint_state_controller -->
   <rosparam file="$(find tamp_perception)/robots/ur5/controller/joint_state_controller.yaml" command="load"/>
   <node name="joint_state_controller_spawner" pkg="controller_manager" type="controller_manager" args="spawn joint_state_controller" respawn="false" output="screen"/>
+
 
   <!-- start this controller -->
   <rosparam file="$(find tamp_perception)/robots/ur5/controller/arm_controller_ur5.yaml" command="load"/>
@@ -40,10 +42,10 @@
           <arg name="limited" value="true" />
   </include>
 
-  <include file="$(find segbot_ur5_moveit_config)/launch/moveit_rviz.launch">
+  <!--<include file="$(find segbot_ur5_moveit_config)/launch/moveit_rviz.launch">
 
           <arg name="config" value="true" />
-  </include>
+  </include>-->
 
   <node name="joints_initializer" pkg="tamp_perception" type="init_joints.py" />
   <!--<node name="pick_place_initializer" pkg="tamp_perception" type="pick_pos.py" />-->
@@ -52,5 +54,14 @@
   <include file="$(find segbot_navigation)/launch/rviz.launch">
     <arg name="config" value="nav_eband" />
   </include>
+ 
+  <node name="image_view" pkg="image_view" type="image_view" respawn="false" output="screen">
+    <remap from="image" to ="/top_down_cam/image_raw"/>
+    <param name="autosize" value="true" />
+    <!--<param name="image_transport" value="compressed" />-->
+  </node>
+
+
+
 
 </launch>

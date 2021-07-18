@@ -2,7 +2,7 @@
 import os
 from PIL import Image
 
-path = 'heatmaps'
+path = 'test_images'
 
 os.mkdir(path + '/train_images')
 
