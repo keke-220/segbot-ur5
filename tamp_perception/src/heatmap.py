@@ -15,7 +15,7 @@ class heatmap():
         self.whole_image = False
         
     def similar_color(self, color1, color2):
-        tolerance = 18
+        tolerance = 50
         if (abs(color1[0]-color2[0])+abs(color1[1]-color2[1])+abs(color1[2]-color2[2])) <= tolerance:
             return True
         else:
@@ -31,6 +31,7 @@ class heatmap():
         temp_im = Image.new('L', im.size)
         temp_pixels = temp_im.load()
         #pixel_set = []
+        
         for i in range(0, w):
             for j in range(0, h):
                 temp_pixels[i, j] = 255-(pixels[i, j] + int((255-pixels[i, j])/2.5)) #for gt image
@@ -38,12 +39,16 @@ class heatmap():
                 #if temp_pixels[i, j] not in pixel_set:
                     #pixel_set.append(temp_pixels[i,j])
         #print (pixel_set)
+        
         temp_im.save("temp"+filename)
         
         image = cv2.imread("temp"+filename)
-        #color_im = cv2.cvtColor(image, cv2.cv.COLORMAP_VIRIDIS)
-        #color_im = cv2.applyColorMap(image, cv2.COLORMAP_COOL)
+
+        #image = cv2.imread(filename)
+        #color_im = cv2.applyColorMap(image, cv2.COLORMAP_PLASMA)
+        #color_im = cv2.applyColorMap(image, cv2.COLORMAP_HOT)
         color_im = cv2.applyColorMap(image, cv2.COLORMAP_BONE)
+        #color_im = cv2.applyColorMap(image, cv2.COLORMAP_JET)
         cv2.imwrite('color.png', color_im)
         """        
         test_im = Image.open('color.png')
@@ -117,8 +122,8 @@ class heatmap():
         pixels_ori = im1.load()
         #print pixels[0,0]
         
-        for i in range(0, 576):
-            for j in range(0, 288):
+        for i in range(0, 512):
+            for j in range(0, 256):
                 """
                 if i <=10 and i>=0:
                     pixels_ori[i, j] = pixels[i,j]
@@ -130,7 +135,9 @@ class heatmap():
 
         #new_img.save('predict_'+filename1.split('.')[0]+'.png')
         im1.save('predict_'+filename1.split('.')[0]+'.png')
-        
+
+
+
     def sample_pixel(self, filename, sample_n):
         #sample a feasible pixel using the same method we calculated feasibility. This function will be used in testing phase.
 
@@ -161,9 +168,40 @@ class heatmap():
 
             return max_pixel
         return None
+    
+    def random_sample_pixel(self, filename, sample_n):
+        #sample a feasible pixel randomly from all feasible pixel
 
+        img = Image.open(filename)
+        #print (filename)
+        pixel_set = []
+        pixels = img.load()
+
+        #generate a set containing non-black pixels
+        for px in range(0, img.size[0]):
+            for py in range(0, img.size[1]):
+                pixel_value = pixels[px, py]
+                if pixel_value > 0:
+                    pixel_set.append((px, py))
+                    #print (pixel_value)
+
+        #augment the pixel set according to the value of each pixel
+        #augmented_pixel_set = []
+        #for p in pixel_set:
+        #    for i in range(0, pixels[p[0], p[1]]):
+        #        augmented_pixel_set.append(p)
+        if len(pixel_set) > 0: 
+            max_pixel = (0, 0)
+            for n in range(0, sample_n):
+                ran = random.randint(0, len(pixel_set)-1)
+                if pixels[pixel_set[ran][0], pixel_set[ran][1]] >= pixels[max_pixel[0], max_pixel[1]]:
+                    max_pixel = pixel_set[ran]
+
+            return max_pixel
+        return None
     def enlarge_image(self, filename):
-        size = (576, 288)
+        #size = (576, 288)
+        size = (512, 256)
         large_im = Image.new('RGBA', size)
         pixel_large = large_im.load()
         ori_im = Image.open(filename)
@@ -171,8 +209,8 @@ class heatmap():
         pixel_ori = ori_im.load()
         for i in range(0, size[0]):
             for j in range(0, size[1]):
-                li = int(i/9)
-                lj = int(j/9)
+                li = int(i/8)
+                lj = int(j/8)
                 pixel_large[i, j] = pixel_ori[li, lj]
         large_im.save('large_'+filename.split(".")[0]+'.png') 
 
@@ -217,13 +255,13 @@ class heatmap():
 
 if __name__ == '__main__':
     test = heatmap()
-    #filename = "heatmaps/75.png"
-    #sample_n = 4
+    filename = "h1_t.jpg"
+    #sample_n = 1
     #test.generate_heatmaps()
     #print (test.get_feasibility(filename, sample_n))
-    test.gray_to_color("bot_78.jpg")
+    test.gray_to_color(filename)
     test.enlarge_image("color.png")
-    test.blend_images("78.jpg", "large_color.png")
+    test.blend_images("t1_t.jpg", "large_color.png")
 
 
 

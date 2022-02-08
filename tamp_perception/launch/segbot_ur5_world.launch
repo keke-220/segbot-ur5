@@ -14,7 +14,7 @@
   </group>
 
   <!-- start world -->
-  <node name="$(arg world)" pkg="gazebo_ros" type="$(arg gazebo_binary)" args="$(find tamp_perception)/worlds/banquet_table_empty.world" respawn="false" output="screen" launch-prefix="$(optenv OPTIRUN_LAUNCH_PREFIX)" />
+  <node name="$(arg world)" pkg="gazebo_ros" type="$(arg gazebo_binary)" args="$(find tamp_perception)/worlds/banquet_table_empty_beam.world" respawn="false" output="screen" launch-prefix="$(optenv OPTIRUN_LAUNCH_PREFIX)" />
 
   <!-- start gui -->
   <group if="$(arg gui)">

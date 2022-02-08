@@ -163,6 +163,16 @@ class chair_sampler(object):
         except rospy.ServiceException as e:
             print("Spawner fails: ", e)
 
+    def delete(self, chair_num):
+
+        try:
+            remover = rospy.ServiceProxy("/gazebo/delete_model", DeleteModel)
+            for i in range(0, chair_num):
+                remover(model_name = 'chair_'+str(i+1))
+            print("Chairs removed.")
+        except rospy.ServiceException as e:
+            print("Spawner fails: ", e)
+
     def delete_all(self):
 
         try:

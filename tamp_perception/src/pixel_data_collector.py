@@ -164,7 +164,7 @@ ee_goal = Point(0, 6, 1.3)
 
 cp = camera_processor('/top_down_cam/image_raw')
 cs = chair_sampler(chair_num)
-nav = navigator()
+nav = navigator(Point(0,2,0), Quaternion(0,0,0,1))
 ac = arm_client()
 
 annotations = []
@@ -217,6 +217,8 @@ for i in range(0, scene_num):
     img_infos.append(img_info)
     with open(scene_file, 'w') as outfile:
         json.dump(img_infos, outfile)
+
+
     #provide a basic method for filtering out goal positions that has collision with chairs
     delete_list = []
     for pixel_index in range(0, len(pixel_set)):
@@ -232,15 +234,6 @@ for i in range(0, scene_num):
             
     print (len(pixel_set))
 
-    """
-    for point in pixel_set:
-        
-        goal = pixel_to_point(point, camera_pos, size, im_size)
-        if is_goal_in_chair(goal, test_spawner, model_coordinates, test_remover):
-            print (goal)
-            print (point)
-            time.sleep(10)
-    """
 
     #for j in range(0, robot_pose_num):
     for j in range(0, len(pixel_set)):
@@ -296,22 +289,7 @@ for i in range(0, scene_num):
                 test_remover(model_name='test_stick')
                 k += 1
                 #sample_n = 0
-        """
-        #if object cannot be sampled multiple times, set it to False automatically
-        elif sample_n > sample_threshold:
-            print ("Have tried too many times! Give up!")
-            ant = {'image_id': i+1,
-                   'robot_pose': pixel_set[j],
-                   'unloading_result': False}
-            print ("Unloading behavior result: " + str(ant['unloading_result']))
-            annotations.append(ant)
 
-            with open(annotation_file, 'w') as outfile:
-                json.dump(annotations, outfile)
-            k += 1
-            sample_n = 0           
-
-        """
     #delete all chairs
     cs.delete_all()
     #clear the map

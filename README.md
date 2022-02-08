@@ -36,3 +36,9 @@ Open another terminal and test with a simple pick&place task:
 source ~/catkin_ws/devel/setup.bash
 rosrun tamp_perception pick_n_place.py
 ```
+
+## Dataset
+Dataset can be downloaded [here](https://drive.google.com/drive/folders/1rs9OBHKwvhTrzWQAZI0j5vrP6KcnC-ai?usp=sharing).
+
+## Model
+The trained model can be downloaded [here](https://drive.google.com/drive/folders/1j4gLybI4JbYKijZb9_W8kqpDjCoHyrll?usp=sharing)

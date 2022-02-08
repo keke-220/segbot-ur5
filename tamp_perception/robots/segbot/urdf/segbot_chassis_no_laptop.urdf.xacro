@@ -8,6 +8,7 @@
   <xacro:include filename="$(find segbot_description)/urdf/components/beam_8020.urdf.xacro" />
   <xacro:include filename="$(find segbot_description)/urdf/components/laptop.urdf.xacro" />
   <xacro:include filename="$(find segbot_description)/urdf/components/standoff.urdf.xacro" />
+  <xacro:include filename="$(find tamp_perception)/robots/segbot/urdf/serving_plate.urdf.xacro" />
 
   <xacro:macro name="segbot_chassis_parametrized" params="parent *origin front_vertical_beam_length back_vertical_beam_length laptop_plate_length laptop_plate_width">
 
@@ -54,11 +55,11 @@
       <origin xyz="0 0 ${0.5*INCH_TO_M}"
         rpy="-${M_PI/2} 0 0" />
     </xacro:beam_8020>
-    <xacro:beam_8020 name="back_right_vertical_beam" parent="back_base_beam" length="${back_vertical_beam_length}">
+    <xacro:beam_8020 name="back_right_vertical_beam" parent="back_base_beam" length="${27*INCH_TO_M}">
       <origin xyz="0 0 ${11.5*INCH_TO_M}"
         rpy="-${M_PI/2} 0 0" />
     </xacro:beam_8020>
-    <xacro:beam_8020 name="front_right_vertical_beam" parent="front_base_beam" length="${front_vertical_beam_length}">
+    <xacro:beam_8020 name="front_right_vertical_beam" parent="front_base_beam" length="${27*INCH_TO_M}">
       <origin xyz="0 0 ${11.5*INCH_TO_M}"
         rpy="-${M_PI/2} 0 0" />
     </xacro:beam_8020>
@@ -81,22 +82,22 @@
         rpy="${M_PI} -${M_PI/2} 0" />
     </xacro:aluminium_sheet>
 
+    <!-- serving plate -->
+    <xacro:serving_plate name="serving_plate" parent="left_laptop_support_beam" thickness="${0.125*INCH_TO_M}" length="${15*INCH_TO_M}" width="${12*INCH_TO_M}">
+      <origin xyz="${3.5*INCH_TO_M} ${17*INCH_TO_M} ${6*INCH_TO_M}"
+        rpy="${M_PI} -${M_PI/2} 0" />
+    </xacro:serving_plate>
+
   </xacro:macro>
 
   <xacro:macro name="segbot_chassis" params="parent *origin">
     <xacro:segbot_chassis_parametrized parent="${parent}" front_vertical_beam_length="${24*INCH_TO_M}"
       back_vertical_beam_length="${24*INCH_TO_M}" laptop_plate_length="${12*INCH_TO_M}"
-      laptop_plate_width="${14*INCH_TO_M}">
+      laptop_plate_width="${16*INCH_TO_M}">
       <xacro:insert_block name="origin" />
     </xacro:segbot_chassis_parametrized>
   </xacro:macro>
 
-  <xacro:macro name="segbot_chassis_arm" params="parent *origin">
-    <xacro:segbot_chassis_parametrized parent="${parent}" front_vertical_beam_length="${18*INCH_TO_M}"
-      back_vertical_beam_length="${18*INCH_TO_M}" laptop_plate_length="${16*INCH_TO_M}"
-      laptop_plate_width="${18*INCH_TO_M}">
-      <xacro:insert_block name="origin" />
-    </xacro:segbot_chassis_parametrized>
-  </xacro:macro>
+
 
 </root>
