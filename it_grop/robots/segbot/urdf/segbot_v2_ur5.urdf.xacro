@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+
+<robot name="segbot"
+       xmlns:xacro="http://ros.org/wiki/xacro">
+
+  <!-- Included URDF Files -->
+  <xacro:include filename="$(find segbot_description)/urdf/v2/common.urdf.xacro" />
+  <xacro:include filename="$(find segbot_description)/gazebo/segbot.gazebo.xacro" />
+  <xacro:include filename="$(find segbot_description)/urdf/segbot_base.urdf.xacro" />
+  <xacro:include filename="$(find it_grop)/robots/segbot/urdf/segbot_chassis_no_laptop.urdf.xacro" />
+  <xacro:include filename="$(find segbot_description)/urdf/mounts/hokuyo_mount.urdf.xacro" />
+  <xacro:include filename="$(find segbot_description)/urdf/mounts/kinect_mount.urdf.xacro" />
+  <xacro:include filename="$(find segbot_description)/urdf/mounts/sensor_plate_mount.urdf.xacro" />
+
+  <!-- include file related to arm -->
+  <xacro:arg name="transmission_hw_interface" default="hardware_interface/PositionJointInterface"/>
+
+  <!-- common stuff -->
+  <xacro:include filename="$(find ur_description)/urdf/common.gazebo.xacro" />
+
+  <!-- ur5 -->
+  <xacro:include filename="$(find it_grop)/robots/ur5/urdf/ur5.urdf.xacro" />
+
+  <!-- gripper -->
+  <xacro:include filename="$(find it_grop)/robots/ur5/urdf/robotiq_arg2f_140_model_macro.xacro" />
+  <xacro:arg name="load_grasp_fix" default="true"/>
+
+  <!-- Add the segbot base -->
+  <xacro:segbot />
+  <xacro:segbot_chassis parent="base">
+    <origin xyz="${BASE_PLATE_X_OFFSET*INCH_TO_M} 0 ${BASE_PLATE_Z_OFFSET*INCH_TO_M}"/>
+  </xacro:segbot_chassis>
+
+  <!-- Add the forward facing kinect sensor for navigation -->
+  <xacro:kinect_mount name="nav_kinect" parent="back_right_vertical_beam" length="${SENSOR_BEAM_LENGTH*INCH_TO_M}">
+    <origin xyz="${1*INCH_TO_M} -${0.5*INCH_TO_M} ${11.5*INCH_TO_M}" rpy="-${M_PI/2} -${M_PI/2} 0" />
+  </xacro:kinect_mount>
+
+  <!-- Add the shared beam between the hokuyo and the sensor plate -->
+  <xacro:beam_8020 name="hokuyo_sonar_sensor_beam" parent="front_left_vertical_beam" length="${SENSOR_BEAM_LENGTH*INCH_TO_M}">
+    <origin xyz="${1*INCH_TO_M} ${0.5*INCH_TO_M} ${4.5*INCH_TO_M}" rpy="${M_PI/2} ${M_PI/2} 0" />
+  </xacro:beam_8020>
+
+  <!-- Add the hokuyo mount without the beam -->
+  <xacro:hokuyo_mount_without_beam name="nav_hokuyo" parent="hokuyo_sonar_sensor_beam" ros_topic="scan" update_rate="10" min_angle="${-(5 * M_PI)/12}" max_angle="${(5 * M_PI)/12}" range="20.0">
+    <origin xyz="${.5*INCH_TO_M} ${0.75*INCH_TO_M} ${SENSOR_BEAM_LENGTH/2*INCH_TO_M}" rpy="${M_PI/2} 0 ${M_PI/2}" />
+  </xacro:hokuyo_mount_without_beam>
+
+  <!-- Add the sensor plate mount -->
+  <xacro:sensor_plate_mount_without_beam parent="hokuyo_sonar_sensor_beam" length="${SENSOR_BEAM_LENGTH*INCH_TO_M}"/>
+ 
+  <joint name="arm_joint" type="fixed">
+    <parent link="laptop_base_plate_link" />
+    <child link = "ur5_base_link" />
+    <origin xyz="0.0 0.0 0.0" rpy="0.0 0.0 0.0" />
+  </joint>
+
+
+    <!-- arm -->
+  <xacro:ur5_robot prefix="" joint_limited="true"
+    shoulder_pan_lower_limit="${-pi}" shoulder_pan_upper_limit="${pi}"
+    shoulder_lift_lower_limit="${-pi}" shoulder_lift_upper_limit="${pi}"
+    elbow_joint_lower_limit="${-pi}" elbow_joint_upper_limit="${pi}"
+    wrist_1_lower_limit="${-pi}" wrist_1_upper_limit="${pi}"
+    wrist_2_lower_limit="${-pi}" wrist_2_upper_limit="${pi}"
+    wrist_3_lower_limit="${-pi}" wrist_3_upper_limit="${pi}"
+    transmission_hw_interface="$(arg transmission_hw_interface)"
+  />
+  <!-- attach 140 gripper -->
+  <xacro:robotiq_arg2f_140 prefix=""/>
+
+  <joint name="gripper_joint" type="fixed">
+    <parent link="tool0" />
+    <child link = "robotiq_arg2f_base_link" />
+    <origin xyz="0.0 0.0 0.01" rpy="0.0 0.0 ${pi/2}" />
+  </joint>
+
+
+  <xacro:if value="$(arg load_grasp_fix)">
+	  <xacro:include filename="$(find it_grop)/robots/ur5/urdf/gzplugin_grasp_fix.urdf.xacro"/>
+    <xacro:gzplugin_grasp_fix/>
+  </xacro:if>
+  <!--
+  <plugin name="gazebo_grasp_fix" filename="libgazebo_grasp_fix.so">
+
+	  
+     <arm>
+        <arm_name>ur5_robot</arm_name>
+        <palm_link> left_outer_knuckle </palm_link>
+        <palm_link> right_outer_knuckle </palm_link>
+        <gripper_link> left_outer_finger</gripper_link>
+        <gripper_link>left_inner_finger </gripper_link>
+        <gripper_link>left_inner_finger_pad </gripper_link>
+        <gripper_link>right_outer_finger </gripper_link>
+        <gripper_link>right_inner_finger </gripper_link>
+        <gripper_link>right_inner_finger_pad </gripper_link>
+     </arm>
+     <forces_angle_tolerance>120</forces_angle_tolerance>
+     <update_rate>10</update_rate>
+     <grip_count_threshold>10</grip_count_threshold>
+     <max_grip_count>20</max_grip_count>
+     <release_tolerance>0.005</release_tolerance>
+     <disable_collisions_on_attach>false</disable_collisions_on_attach>
+     <contact_topic>__default_topic__</contact_topic>
+  </plugin>
+  -->
+  <xacro:gazebo_segbot_ros_controllers />
+
+</robot>

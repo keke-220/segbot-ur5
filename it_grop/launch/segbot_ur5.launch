@@ -1,0 +1,66 @@
+<launch>
+  <arg name="use_full_gazebo_model" default="true" />
+  
+  <!-- launch the simulated world -->
+  <include file="$(find it_grop)/launch/segbot_ur5_world.launch">
+  </include>
+
+  <!-- launch the map server for the simulated world -->
+  <node name="map_server" pkg="map_server" type="map_server" args="$(find it_grop)/maps/table.yaml" />
+
+  <!-- launch default robot configuration into the world -->
+  <include file="$(find segbot_gazebo)/launch/segbot_mobile_base.launch">
+    <arg name="launch_localization" default="true" />
+    <arg name="launch_move_base" default="true" />
+    <arg name="use_full_gazebo_model" value="$(arg use_full_gazebo_model)" />
+    <arg name="yaw" value="1.570796327" />
+    <arg name="y" value="-4" />
+  </include>
+
+  <include file="$(find it_grop)/robots/segbot/launch/auxiliary.segbot_v2_ur5.launch.xml" />
+
+  <!-- robot arm controller -->
+  <!-- Fake Calibration -->
+  <node pkg="rostopic" type="rostopic" name="fake_joint_calibration"
+        args="pub /calibrated std_msgs/Bool true" />
+  
+  <!-- joint_state_controller -->
+  <rosparam file="$(find it_grop)/robots/ur5/controller/joint_state_controller.yaml" command="load"/>
+  <node name="joint_state_controller_spawner" pkg="controller_manager" type="controller_manager" args="spawn joint_state_controller" respawn="false" output="screen"/>
+
+
+  <!-- start this controller -->
+  <rosparam file="$(find it_grop)/robots/ur5/controller/arm_controller_ur5.yaml" command="load"/>
+  <node name="arm_controller_spawner" pkg="controller_manager" type="controller_manager" args="spawn arm_controller" respawn="false" output="screen"/>
+  <rosparam file="$(find it_grop)/robots/ur5/controller/gripper_controller_ur5.yaml" command="load"/>
+  <node name="gripper_controller_spawner" pkg="controller_manager" type="spawner" args="gripper_controller" output="screen"/>
+  <!-- load other controllers -->
+  <node name="ros_control_controller_manager" pkg="controller_manager" type="controller_manager" respawn="false" output="screen" args="load joint_group_position_controller" />
+
+  <include file="$(find segbot_ur5_moveit_config)/launch/ur5_moveit_planning_execution.launch">
+          <arg name="sim" value="true" />
+          <arg name="limited" value="true" />
+  </include>
+
+  <!--<include file="$(find segbot_ur5_moveit_config)/launch/moveit_rviz.launch">
+
+          <arg name="config" value="true" />
+  </include>-->
+
+  <node name="joints_initializer" pkg="it_grop" type="init_joints.py" />
+
+  <!-- launch vizualization -->
+  <!--<include file="$(find segbot_navigation)/launch/rviz.launch">
+    <arg name="config" value="nav_eband" />
+  </include>-->
+ 
+  <node name="image_view" pkg="image_view" type="image_view" respawn="false" output="screen">
+    <remap from="image" to ="/top_down_cam/image_raw"/>
+    <param name="autosize" value="true" />
+    <!--<param name="image_transport" value="compressed" />-->
+  </node>
+
+
+
+
+</launch>

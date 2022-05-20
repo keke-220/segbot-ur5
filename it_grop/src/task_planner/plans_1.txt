@@ -1,0 +1,1440 @@
+Answer: 1
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 2
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 3
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 4
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 5
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 6
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 7
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 8
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 9
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 10
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 11
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 12
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 13
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 14
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 15
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 16
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 17
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 18
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 19
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 20
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 21
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 22
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 23
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 24
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 25
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 26
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 27
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 28
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 29
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 30
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 31
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 32
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 33
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 34
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 35
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 36
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 37
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 38
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 39
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 40
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 41
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 42
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 43
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 44
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 45
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 46
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 47
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 48
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 49
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 50
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 51
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 52
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 53
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 54
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 55
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 56
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 57
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 58
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 59
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 60
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 61
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 62
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 63
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 64
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 65
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 66
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 67
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 68
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 69
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 70
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 71
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 72
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 73
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 74
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 75
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 76
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 77
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 78
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 79
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 80
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 81
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 82
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 83
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 84
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 85
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 86
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 87
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 88
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 89
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 90
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 91
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 92
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 93
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 94
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 95
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 96
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 97
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 98
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 99
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 100
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 101
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 102
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 103
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 104
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 105
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 106
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 107
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 108
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 109
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 110
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 111
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 112
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 113
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 114
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 115
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 116
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 117
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 118
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 119
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 120
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 121
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 122
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 123
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 124
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 125
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 126
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 127
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 128
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 129
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 130
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 131
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 132
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 133
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 134
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 135
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 136
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 137
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 138
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 139
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 140
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 141
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 142
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 143
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 144
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 145
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 146
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 147
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 148
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 149
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 150
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 151
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 152
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 153
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 154
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 155
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 156
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 157
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 158
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 159
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 160
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 161
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 162
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 163
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 164
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 165
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 166
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 167
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 168
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 169
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 170
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 171
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 172
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 173
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 174
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 175
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 176
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 177
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 178
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 179
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 180
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 181
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 182
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 183
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 184
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 185
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 186
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 187
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 188
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 189
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 190
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l4,11) unload(o4,t4,12)
+Answer: 191
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 192
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l5,11) unload(o5,t5,12)
+Answer: 193
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 194
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 195
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 196
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 197
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 198
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 199
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 200
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 201
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 202
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 203
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 204
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 205
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 206
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 207
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 208
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 209
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 210
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 211
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 212
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 213
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 214
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 215
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 216
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 217
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 218
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 219
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 220
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 221
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 222
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 223
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 224
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 225
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 226
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 227
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 228
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 229
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 230
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 231
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 232
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 233
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 234
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 235
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 236
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 237
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 238
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 239
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 240
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 241
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 242
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 243
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 244
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 245
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 246
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 247
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 248
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 249
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 250
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 251
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 252
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l1,11) unload(o1,t1,12)
+Answer: 253
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 254
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 255
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 256
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 257
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 258
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 259
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 260
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 261
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 262
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 263
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 264
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 265
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 266
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 267
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 268
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 269
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 270
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l5,7) unload(o5,t5,8) navigate_to(l5,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 271
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 272
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 273
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 274
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 275
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 276
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 277
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 278
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 279
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 280
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 281
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 282
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 283
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 284
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 285
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 286
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 287
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 288
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l5,11) unload(o5,t5,12)
+Answer: 289
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 290
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 291
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 292
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 293
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 294
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 295
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 296
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 297
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 298
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 299
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 300
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 301
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 302
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 303
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 304
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 305
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 306
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 307
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 308
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 309
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 310
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 311
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 312
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 313
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 314
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 315
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 316
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 317
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 318
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 319
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 320
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 321
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 322
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 323
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 324
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 325
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 326
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 327
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 328
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 329
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 330
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 331
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 332
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l5,7) unload(o5,t5,8) navigate_to(l5,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 333
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 334
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 335
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 336
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 337
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 338
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 339
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 340
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 341
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 342
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l5,11) unload(o5,t5,12)
+Answer: 343
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 344
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l0,11) unload(o0,t0,12)
+Answer: 345
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 346
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 347
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 348
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 349
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 350
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 351
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 352
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 353
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 354
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l5,11) unload(o5,t5,12)
+Answer: 355
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 356
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l3,11) unload(o3,t3,12)
+Answer: 357
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 358
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l5,11) unload(o5,t5,12)
+Answer: 359
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 360
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l5,9) unload(o5,t5,10) navigate_to(l5,l2,11) unload(o2,t2,12)
+Answer: 361
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 362
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 363
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 364
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 365
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 366
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 367
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 368
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 369
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 370
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 371
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 372
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 373
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 374
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 375
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 376
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 377
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 378
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 379
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 380
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 381
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 382
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 383
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 384
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 385
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 386
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 387
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 388
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 389
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 390
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 391
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 392
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 393
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 394
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 395
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 396
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 397
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 398
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 399
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 400
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 401
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 402
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 403
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 404
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 405
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 406
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 407
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 408
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 409
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 410
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 411
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 412
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 413
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 414
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 415
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 416
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 417
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 418
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 419
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 420
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 421
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 422
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 423
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 424
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 425
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 426
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 427
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 428
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 429
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 430
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 431
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 432
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 433
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 434
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 435
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 436
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 437
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 438
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 439
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 440
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 441
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 442
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l1,3) unload(o1,t1,4) navigate_to(l1,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 443
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 444
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 445
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 446
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 447
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 448
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 449
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 450
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 451
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 452
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 453
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 454
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 455
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l1,3) unload(o1,t1,4) navigate_to(l1,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 456
+navigate_to(src,l1,1) unload(o1,t1,2) navigate_to(l1,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 457
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 458
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 459
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 460
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 461
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 462
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 463
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 464
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 465
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 466
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l2,11) unload(o2,t2,12)
+Answer: 467
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 468
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 469
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 470
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 471
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 472
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 473
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 474
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 475
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 476
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 477
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 478
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 479
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 480
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 481
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 482
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 483
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 484
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 485
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 486
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 487
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 488
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 489
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 490
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 491
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 492
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l3,11) unload(o3,t3,12)
+Answer: 493
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 494
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 495
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 496
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 497
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 498
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 499
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 500
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 501
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 502
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 503
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 504
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 505
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 506
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 507
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 508
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 509
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 510
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l4,11) unload(o4,t4,12)
+Answer: 511
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 512
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 513
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 514
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 515
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 516
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 517
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 518
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 519
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 520
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 521
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 522
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 523
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 524
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 525
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 526
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l4,9) unload(o4,t4,10) navigate_to(l4,l0,11) unload(o0,t0,12)
+Answer: 527
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 528
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l4,9) unload(o4,t4,10) navigate_to(l4,l1,11) unload(o1,t1,12)
+Answer: 529
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 530
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 531
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 532
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 533
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 534
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 535
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 536
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 537
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 538
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 539
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 540
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l4,11) unload(o4,t4,12)
+Answer: 541
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 542
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 543
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 544
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l4,11) unload(o4,t4,12)
+Answer: 545
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 546
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 547
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 548
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 549
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 550
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 551
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 552
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l4,11) unload(o4,t4,12)
+Answer: 553
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 554
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 555
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 556
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 557
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 558
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 559
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 560
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 561
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 562
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 563
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 564
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 565
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 566
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 567
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 568
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 569
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 570
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l1,11) unload(o1,t1,12)
+Answer: 571
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 572
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 573
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 574
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 575
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 576
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 577
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 578
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 579
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 580
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 581
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 582
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 583
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 584
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 585
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 586
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 587
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 588
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l0,11) unload(o0,t0,12)
+Answer: 589
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 590
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 591
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 592
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 593
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 594
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 595
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 596
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 597
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 598
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 599
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 600
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 601
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 602
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 603
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 604
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 605
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 606
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 607
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 608
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 609
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 610
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 611
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 612
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 613
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 614
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 615
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 616
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 617
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 618
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l1,11) unload(o1,t1,12)
+Answer: 619
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 620
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 621
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 622
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 623
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 624
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l1,11) unload(o1,t1,12)
+Answer: 625
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 626
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 627
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 628
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 629
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 630
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 631
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 632
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 633
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 634
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 635
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 636
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l4,7) unload(o4,t4,8) navigate_to(l4,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 637
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 638
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 639
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 640
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 641
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 642
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l2,7) unload(o2,t2,8) navigate_to(l2,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 643
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 644
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 645
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 646
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 647
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 648
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l3,7) unload(o3,t3,8) navigate_to(l3,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 649
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 650
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 651
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 652
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 653
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 654
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 655
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 656
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l3,11) unload(o3,t3,12)
+Answer: 657
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 658
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 659
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 660
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l0,7) unload(o0,t0,8) navigate_to(l0,l1,9) unload(o1,t1,10) navigate_to(l1,l2,11) unload(o2,t2,12)
+Answer: 661
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 662
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 663
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 664
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 665
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 666
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 667
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 668
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 669
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 670
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 671
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 672
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 673
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 674
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 675
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 676
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 677
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 678
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l0,11) unload(o0,t0,12)
+Answer: 679
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 680
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l0,11) unload(o0,t0,12)
+Answer: 681
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 682
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 683
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 684
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 685
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 686
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 687
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 688
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l1,5) unload(o1,t1,6) navigate_to(l1,l4,7) unload(o4,t4,8) navigate_to(l4,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 689
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 690
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l2,7) unload(o2,t2,8) navigate_to(l2,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 691
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 692
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 693
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 694
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 695
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 696
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 697
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l2,3) unload(o2,t2,4) navigate_to(l2,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 698
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 699
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 700
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l2,5) unload(o2,t2,6) navigate_to(l2,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 701
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l2,3) unload(o2,t2,4) navigate_to(l2,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 702
+navigate_to(src,l2,1) unload(o2,t2,2) navigate_to(l2,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l3,11) unload(o3,t3,12)
+Answer: 703
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 704
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l3,7) unload(o3,t3,8) navigate_to(l3,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 705
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l3,3) unload(o3,t3,4) navigate_to(l3,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 706
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 707
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l3,3) unload(o3,t3,4) navigate_to(l3,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 708
+navigate_to(src,l3,1) unload(o3,t3,2) navigate_to(l3,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 709
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 710
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l3,5) unload(o3,t3,6) navigate_to(l3,l1,7) unload(o1,t1,8) navigate_to(l1,l0,9) unload(o0,t0,10) navigate_to(l0,l2,11) unload(o2,t2,12)
+Answer: 711
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l0,3) unload(o0,t0,4) navigate_to(l0,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 712
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l4,3) unload(o4,t4,4) navigate_to(l4,l5,5) unload(o5,t5,6) navigate_to(l5,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 713
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 714
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l0,5) unload(o0,t0,6) navigate_to(l0,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 715
+navigate_to(src,l0,1) unload(o0,t0,2) navigate_to(l0,l5,3) unload(o5,t5,4) navigate_to(l5,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 716
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l0,3) unload(o0,t0,4) navigate_to(l0,l4,5) unload(o4,t4,6) navigate_to(l4,l1,7) unload(o1,t1,8) navigate_to(l1,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 717
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 718
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l2,9) unload(o2,t2,10) navigate_to(l2,l3,11) unload(o3,t3,12)
+Answer: 719
+navigate_to(src,l5,1) unload(o5,t5,2) navigate_to(l5,l4,3) unload(o4,t4,4) navigate_to(l4,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)
+Answer: 720
+navigate_to(src,l4,1) unload(o4,t4,2) navigate_to(l4,l5,3) unload(o5,t5,4) navigate_to(l5,l1,5) unload(o1,t1,6) navigate_to(l1,l0,7) unload(o0,t0,8) navigate_to(l0,l3,9) unload(o3,t3,10) navigate_to(l3,l2,11) unload(o2,t2,12)

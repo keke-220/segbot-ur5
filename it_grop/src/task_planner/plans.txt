@@ -1,0 +1,576 @@
+Answer: 1
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_bot,9) unload(o1,t1,10)
+Answer: 2
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_bot,9) unload(o1,t1,10)
+Answer: 3
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_top,9) unload(o1,t1,10)
+Answer: 4
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_top,9) unload(o1,t1,10)
+Answer: 5
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_bot,9) unload(o1,t1,10)
+Answer: 6
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_bot,9) unload(o1,t1,10)
+Answer: 7
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_bot,9) unload(o1,t1,10)
+Answer: 8
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_bot,9) unload(o1,t1,10)
+Answer: 9
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_top,9) unload(o1,t1,10)
+Answer: 10
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_top,9) unload(o1,t1,10)
+Answer: 11
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_top,9) unload(o1,t1,10)
+Answer: 12
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_top,9) unload(o1,t1,10)
+Answer: 13
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_bot,9) unload(o1,t1,10)
+Answer: 14
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_top,9) unload(o1,t1,10)
+Answer: 15
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_bot,9) unload(o1,t1,10)
+Answer: 16
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_top,9) unload(o1,t1,10)
+Answer: 17
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_top,9) unload(o1,t1,10)
+Answer: 18
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_bot,9) unload(o1,t1,10)
+Answer: 19
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_bot,9) unload(o1,t1,10)
+Answer: 20
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_top,9) unload(o1,t1,10)
+Answer: 21
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_top,9) unload(o1,t1,10)
+Answer: 22
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_bot,9) unload(o1,t1,10)
+Answer: 23
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_bot,9) unload(o1,t1,10)
+Answer: 24
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l1_top,9) unload(o1,t1,10)
+Answer: 25
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_top,9) unload(o1,t1,10)
+Answer: 26
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 27
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_top,9) unload(o1,t1,10)
+Answer: 28
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 29
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_top,9) unload(o1,t1,10)
+Answer: 30
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 31
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_top,9) unload(o1,t1,10)
+Answer: 32
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 33
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_top,9) unload(o1,t1,10)
+Answer: 34
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 35
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_top,9) unload(o1,t1,10)
+Answer: 36
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 37
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_top,9) unload(o1,t1,10)
+Answer: 38
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 39
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_top,9) unload(o1,t1,10)
+Answer: 40
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 41
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_top,9) unload(o1,t1,10)
+Answer: 42
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 43
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_top,9) unload(o1,t1,10)
+Answer: 44
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 45
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_top,9) unload(o1,t1,10)
+Answer: 46
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 47
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_top,9) unload(o1,t1,10)
+Answer: 48
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 49
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_top,9) unload(o0,t0,10)
+Answer: 50
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_top,9) unload(o0,t0,10)
+Answer: 51
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_top,9) unload(o0,t0,10)
+Answer: 52
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_top,9) unload(o0,t0,10)
+Answer: 53
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_top,9) unload(o0,t0,10)
+Answer: 54
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_top,9) unload(o0,t0,10)
+Answer: 55
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_top,9) unload(o0,t0,10)
+Answer: 56
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_top,9) unload(o0,t0,10)
+Answer: 57
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_top,9) unload(o0,t0,10)
+Answer: 58
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_top,9) unload(o0,t0,10)
+Answer: 59
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_top,9) unload(o0,t0,10)
+Answer: 60
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_top,9) unload(o0,t0,10)
+Answer: 61
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 62
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 63
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 64
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 65
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 66
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 67
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 68
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 69
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 70
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 71
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 72
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 73
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_bot,9) unload(o0,t0,10)
+Answer: 74
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_bot,9) unload(o0,t0,10)
+Answer: 75
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_bot,9) unload(o0,t0,10)
+Answer: 76
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_bot,9) unload(o0,t0,10)
+Answer: 77
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_bot,9) unload(o0,t0,10)
+Answer: 78
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_bot,9) unload(o0,t0,10)
+Answer: 79
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_top,9) unload(o0,t0,10)
+Answer: 80
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_top,9) unload(o0,t0,10)
+Answer: 81
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_top,9) unload(o0,t0,10)
+Answer: 82
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_top,9) unload(o0,t0,10)
+Answer: 83
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_top,9) unload(o0,t0,10)
+Answer: 84
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_top,9) unload(o0,t0,10)
+Answer: 85
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_bot,9) unload(o0,t0,10)
+Answer: 86
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_bot,9) unload(o0,t0,10)
+Answer: 87
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_bot,9) unload(o0,t0,10)
+Answer: 88
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_bot,9) unload(o0,t0,10)
+Answer: 89
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_bot,9) unload(o0,t0,10)
+Answer: 90
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_bot,9) unload(o0,t0,10)
+Answer: 91
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_top,9) unload(o0,t0,10)
+Answer: 92
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_top,9) unload(o0,t0,10)
+Answer: 93
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_top,9) unload(o0,t0,10)
+Answer: 94
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_top,9) unload(o0,t0,10)
+Answer: 95
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_top,9) unload(o0,t0,10)
+Answer: 96
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l0_top,9) unload(o0,t0,10)
+Answer: 97
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 98
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 99
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_top,9) unload(o0,t0,10)
+Answer: 100
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_top,9) unload(o0,t0,10)
+Answer: 101
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_bot,9) unload(o0,t0,10)
+Answer: 102
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_bot,9) unload(o0,t0,10)
+Answer: 103
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_top,9) unload(o0,t0,10)
+Answer: 104
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_top,9) unload(o0,t0,10)
+Answer: 105
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_top,9) unload(o0,t0,10)
+Answer: 106
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_top,9) unload(o0,t0,10)
+Answer: 107
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 108
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 109
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_top,9) unload(o0,t0,10)
+Answer: 110
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_top,9) unload(o0,t0,10)
+Answer: 111
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_bot,9) unload(o0,t0,10)
+Answer: 112
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_bot,9) unload(o0,t0,10)
+Answer: 113
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 114
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 115
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 116
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 117
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_top,9) unload(o0,t0,10)
+Answer: 118
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_top,9) unload(o0,t0,10)
+Answer: 119
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_top,9) unload(o0,t0,10)
+Answer: 120
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_top,9) unload(o0,t0,10)
+Answer: 121
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 122
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 123
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 124
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_bot,9) unload(o0,t0,10)
+Answer: 125
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_top,9) unload(o0,t0,10)
+Answer: 126
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_top,9) unload(o0,t0,10)
+Answer: 127
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_top,9) unload(o0,t0,10)
+Answer: 128
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l0_top,9) unload(o0,t0,10)
+Answer: 129
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_bot,9) unload(o0,t0,10)
+Answer: 130
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_bot,9) unload(o0,t0,10)
+Answer: 131
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_bot,9) unload(o0,t0,10)
+Answer: 132
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_bot,9) unload(o0,t0,10)
+Answer: 133
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_top,9) unload(o0,t0,10)
+Answer: 134
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_top,9) unload(o0,t0,10)
+Answer: 135
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_top,9) unload(o0,t0,10)
+Answer: 136
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_top,5) unload(o2,t2,6) navigate_to(l2_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_top,9) unload(o0,t0,10)
+Answer: 137
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_bot,9) unload(o0,t0,10)
+Answer: 138
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_bot,9) unload(o0,t0,10)
+Answer: 139
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_bot,9) unload(o0,t0,10)
+Answer: 140
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_bot,9) unload(o0,t0,10)
+Answer: 141
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_top,9) unload(o0,t0,10)
+Answer: 142
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_top,9) unload(o0,t0,10)
+Answer: 143
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_top,9) unload(o0,t0,10)
+Answer: 144
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l2_bot,5) unload(o2,t2,6) navigate_to(l2_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l0_top,9) unload(o0,t0,10)
+Answer: 145
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 146
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 147
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 148
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 149
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 150
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 151
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_top,9) unload(o2,t2,10)
+Answer: 152
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_top,9) unload(o2,t2,10)
+Answer: 153
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_top,9) unload(o2,t2,10)
+Answer: 154
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_top,9) unload(o2,t2,10)
+Answer: 155
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_top,9) unload(o2,t2,10)
+Answer: 156
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_top,9) unload(o2,t2,10)
+Answer: 157
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 158
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 159
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 160
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 161
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 162
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 163
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_top,9) unload(o2,t2,10)
+Answer: 164
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_top,9) unload(o2,t2,10)
+Answer: 165
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_top,9) unload(o2,t2,10)
+Answer: 166
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_top,9) unload(o2,t2,10)
+Answer: 167
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_top,9) unload(o2,t2,10)
+Answer: 168
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_bot,7) unload(o0,t0,8) navigate_to(l0_bot,l2_top,9) unload(o2,t2,10)
+Answer: 169
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_bot,9) unload(o2,t2,10)
+Answer: 170
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_bot,9) unload(o2,t2,10)
+Answer: 171
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_bot,9) unload(o2,t2,10)
+Answer: 172
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_bot,9) unload(o2,t2,10)
+Answer: 173
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_bot,9) unload(o2,t2,10)
+Answer: 174
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_bot,9) unload(o2,t2,10)
+Answer: 175
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_top,9) unload(o2,t2,10)
+Answer: 176
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_top,9) unload(o2,t2,10)
+Answer: 177
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_top,9) unload(o2,t2,10)
+Answer: 178
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_top,9) unload(o2,t2,10)
+Answer: 179
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_top,9) unload(o2,t2,10)
+Answer: 180
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_top,5) unload(o1,t1,6) navigate_to(l1_top,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_top,9) unload(o2,t2,10)
+Answer: 181
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_bot,9) unload(o2,t2,10)
+Answer: 182
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_bot,9) unload(o2,t2,10)
+Answer: 183
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_bot,9) unload(o2,t2,10)
+Answer: 184
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_bot,9) unload(o2,t2,10)
+Answer: 185
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_bot,9) unload(o2,t2,10)
+Answer: 186
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_bot,9) unload(o2,t2,10)
+Answer: 187
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_top,9) unload(o2,t2,10)
+Answer: 188
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_top,9) unload(o2,t2,10)
+Answer: 189
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_top,9) unload(o2,t2,10)
+Answer: 190
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_top,9) unload(o2,t2,10)
+Answer: 191
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_top,9) unload(o2,t2,10)
+Answer: 192
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l1_bot,5) unload(o1,t1,6) navigate_to(l1_bot,l0_top,7) unload(o0,t0,8) navigate_to(l0_top,l2_top,9) unload(o2,t2,10)
+Answer: 193
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_top,9) unload(o1,t1,10)
+Answer: 194
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_top,9) unload(o1,t1,10)
+Answer: 195
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_top,9) unload(o1,t1,10)
+Answer: 196
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_top,9) unload(o1,t1,10)
+Answer: 197
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_bot,9) unload(o1,t1,10)
+Answer: 198
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_bot,9) unload(o1,t1,10)
+Answer: 199
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_bot,9) unload(o1,t1,10)
+Answer: 200
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_bot,9) unload(o1,t1,10)
+Answer: 201
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_top,9) unload(o1,t1,10)
+Answer: 202
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_top,9) unload(o1,t1,10)
+Answer: 203
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_bot,9) unload(o1,t1,10)
+Answer: 204
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_bot,9) unload(o1,t1,10)
+Answer: 205
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_top,9) unload(o1,t1,10)
+Answer: 206
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_top,9) unload(o1,t1,10)
+Answer: 207
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_top,9) unload(o1,t1,10)
+Answer: 208
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_top,9) unload(o1,t1,10)
+Answer: 209
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_top,9) unload(o1,t1,10)
+Answer: 210
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_top,9) unload(o1,t1,10)
+Answer: 211
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 212
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 213
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 214
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 215
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 216
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 217
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_top,9) unload(o1,t1,10)
+Answer: 218
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_top,9) unload(o1,t1,10)
+Answer: 219
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_top,9) unload(o1,t1,10)
+Answer: 220
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_top,9) unload(o1,t1,10)
+Answer: 221
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_top,9) unload(o1,t1,10)
+Answer: 222
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_top,9) unload(o1,t1,10)
+Answer: 223
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_bot,9) unload(o1,t1,10)
+Answer: 224
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_bot,9) unload(o1,t1,10)
+Answer: 225
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_bot,9) unload(o1,t1,10)
+Answer: 226
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_bot,9) unload(o1,t1,10)
+Answer: 227
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_bot,9) unload(o1,t1,10)
+Answer: 228
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_top,7) unload(o2,t2,8) navigate_to(l2_top,l1_bot,9) unload(o1,t1,10)
+Answer: 229
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_top,9) unload(o1,t1,10)
+Answer: 230
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_top,9) unload(o1,t1,10)
+Answer: 231
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_top,9) unload(o1,t1,10)
+Answer: 232
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_top,9) unload(o1,t1,10)
+Answer: 233
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_top,9) unload(o1,t1,10)
+Answer: 234
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_top,9) unload(o1,t1,10)
+Answer: 235
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 236
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 237
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 238
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 239
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 240
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l2_bot,7) unload(o2,t2,8) navigate_to(l2_bot,l1_bot,9) unload(o1,t1,10)
+Answer: 241
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_top,9) unload(o2,t2,10)
+Answer: 242
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_top,9) unload(o2,t2,10)
+Answer: 243
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_top,9) unload(o2,t2,10)
+Answer: 244
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_top,9) unload(o2,t2,10)
+Answer: 245
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_top,9) unload(o2,t2,10)
+Answer: 246
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_top,9) unload(o2,t2,10)
+Answer: 247
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 248
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 249
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 250
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 251
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 252
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 253
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_top,9) unload(o2,t2,10)
+Answer: 254
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 255
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_top,9) unload(o2,t2,10)
+Answer: 256
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 257
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 258
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 259
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_top,9) unload(o2,t2,10)
+Answer: 260
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_top,9) unload(o2,t2,10)
+Answer: 261
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 262
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_top,9) unload(o2,t2,10)
+Answer: 263
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_bot,9) unload(o2,t2,10)
+Answer: 264
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_bot,7) unload(o1,t1,8) navigate_to(l1_bot,l2_top,9) unload(o2,t2,10)
+Answer: 265
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_bot,9) unload(o2,t2,10)
+Answer: 266
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_top,9) unload(o2,t2,10)
+Answer: 267
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_bot,9) unload(o2,t2,10)
+Answer: 268
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_top,9) unload(o2,t2,10)
+Answer: 269
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_top,9) unload(o2,t2,10)
+Answer: 270
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_bot,9) unload(o2,t2,10)
+Answer: 271
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_top,9) unload(o2,t2,10)
+Answer: 272
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_bot,9) unload(o2,t2,10)
+Answer: 273
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_bot,9) unload(o2,t2,10)
+Answer: 274
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_bot,9) unload(o2,t2,10)
+Answer: 275
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_top,9) unload(o2,t2,10)
+Answer: 276
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_top,5) unload(o0,t0,6) navigate_to(l0_top,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_top,9) unload(o2,t2,10)
+Answer: 277
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_bot,9) unload(o2,t2,10)
+Answer: 278
+navigate_to(linit,src,1) load(o0,2) load(o1,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_top,9) unload(o2,t2,10)
+Answer: 279
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_bot,9) unload(o2,t2,10)
+Answer: 280
+navigate_to(linit,src,1) load(o1,2) load(o0,3) load(o2,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_top,9) unload(o2,t2,10)
+Answer: 281
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_bot,9) unload(o2,t2,10)
+Answer: 282
+navigate_to(linit,src,1) load(o2,2) load(o1,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_top,9) unload(o2,t2,10)
+Answer: 283
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_bot,9) unload(o2,t2,10)
+Answer: 284
+navigate_to(linit,src,1) load(o2,2) load(o0,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_top,9) unload(o2,t2,10)
+Answer: 285
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_bot,9) unload(o2,t2,10)
+Answer: 286
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_bot,9) unload(o2,t2,10)
+Answer: 287
+navigate_to(linit,src,1) load(o1,2) load(o2,3) load(o0,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_top,9) unload(o2,t2,10)
+Answer: 288
+navigate_to(linit,src,1) load(o0,2) load(o2,3) load(o1,4) navigate_to(src,l0_bot,5) unload(o0,t0,6) navigate_to(l0_bot,l1_top,7) unload(o1,t1,8) navigate_to(l1_top,l2_top,9) unload(o2,t2,10)
