@@ -1,8 +1,4 @@
 - git:
-    local-name: agile_grasp
-    uri: https://github.com/utexas-bwi/agile_grasp.git
-    version: melodic-devel
-- git:
     local-name: bwi
     uri: https://github.com/utexas-bwi/bwi.git
     version: master
@@ -10,6 +6,27 @@
     local-name: bwi_common
     uri: https://github.com/utexas-bwi/bwi_common.git
     version: master
+- git:
+    local-name: libsegwayrmp
+    uri: https://github.com/utexas-bwi/libsegwayrmp.git
+    version: master
+- git:
+    local-name: segbot
+    uri: https://github.com/utexas-bwi/segbot.git
+    version: corrie-docker
+- git:
+    local-name: segway_rmp
+    uri: https://github.com/utexas-bwi/segway_rmp.git
+    version: corrie-docker
+
+- git: {local-name: segbot_bringup,
+    uri: 'https://github.com/utexas-bwi/segbot_bringup.git', version: main}
+
+- git:
+    local-name: agile_grasp
+    uri: https://github.com/utexas-bwi/agile_grasp.git
+    version: melodic-devel
+
 - git:
     local-name: camera1394
     uri: https://github.com/ros-drivers/camera1394
@@ -22,22 +39,7 @@
     local-name: kinova-ros
     uri: https://github.com/utexas-bwi/kinova-ros.git
     version: melodic-devel
-- git:
-    local-name: libsegwayrmp
-    uri: https://github.com/utexas-bwi/libsegwayrmp.git
-    version: master
-- git:
-    local-name: segbot
-    uri: https://github.com/utexas-bwi/segbot.git
-    version: master
-- git:
-    local-name: segway_rmp
-    uri: https://github.com/utexas-bwi/segway_rmp.git
-    version: master
-- git:
-    local-name: segway_v3
-    uri: https://github.com/utexas-bwi/segway_v3.git
-    version: melodic-devel
+
 - git:
     local-name: segbot-ur5
     uri: https://github.com/keke-220/segbot-ur5.git
