@@ -83,10 +83,10 @@
     </xacro:aluminium_sheet>
 
     <!-- serving plate -->
-    <xacro:serving_plate name="serving_plate" parent="left_laptop_support_beam" thickness="${0.125*INCH_TO_M}" length="${15*INCH_TO_M}" width="${12*INCH_TO_M}">
+    <!--<xacro:serving_plate name="serving_plate" parent="left_laptop_support_beam" thickness="${0.125*INCH_TO_M}" length="${15*INCH_TO_M}" width="${12*INCH_TO_M}">
       <origin xyz="${3.5*INCH_TO_M} ${17*INCH_TO_M} ${6*INCH_TO_M}"
         rpy="${M_PI} -${M_PI/2} 0" />
-    </xacro:serving_plate>
+    </xacro:serving_plate>-->
 
   </xacro:macro>
 

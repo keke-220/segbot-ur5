@@ -14,7 +14,7 @@
   </group>
 
   <!-- start world -->
-  <node name="$(arg world)" pkg="gazebo_ros" type="$(arg gazebo_binary)" args="$(find it_grop)/worlds/dining.world" respawn="false" output="screen" launch-prefix="$(optenv OPTIRUN_LAUNCH_PREFIX)" />
+  <node name="$(arg world)" pkg="gazebo_ros" type="$(arg gazebo_binary)" args="$(find it_grop)/worlds/demo.world" respawn="false" output="screen" launch-prefix="$(optenv OPTIRUN_LAUNCH_PREFIX)" />
 
   <!-- start gui -->
   <group if="$(arg gui)">

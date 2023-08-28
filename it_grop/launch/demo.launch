@@ -2,7 +2,7 @@
   <arg name="use_full_gazebo_model" default="true" />
   
   <!-- launch the simulated world -->
-  <include file="$(find it_grop)/launch/segbot_ur5_world.launch">
+  <include file="$(find it_grop)/launch/demo_world.launch">
   </include>
 
   <!-- launch the map server for the simulated world -->
@@ -59,6 +59,12 @@
     <param name="autosize" value="true" />
     <!--<param name="image_transport" value="compressed" />-->
   </node>
+  <node name="image_view_high" pkg="image_view" type="image_view" respawn="false" output="screen">
+    <remap from="image" to ="/top_down_cam/image_high"/>
+    <param name="autosize" value="true" />
+    <!--<param name="image_transport" value="compressed" />-->
+  </node>
+
 
 
 

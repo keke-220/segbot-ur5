@@ -34,9 +34,14 @@ class navigator():
         self.ac.send_goal(testgoal)
         self.ac.wait_for_result(rospy.Duration(60))
         print ("Test result: action client works fine.")
- 
+        self.cost_cache = {}
     #we don't consider orientation in this virtual navigator   
+    
+    def set_cost_cache(self, indict):
+        self.cost_cache = indict
 
+    def get_cost_from_cache(self, p1, p2):
+        return self.cost_cache[(p1,p2)]
 
     def move_to_goal(self, p, o):
         '''take point and Quaternion objects as inputs'''

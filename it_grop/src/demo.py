@@ -39,11 +39,11 @@ from voronoi import voronoi
 # parameters
 task_num = 20
 ours = False
-n_c = False
+n_c = True
 r_c = False
 n_w = False  # (GROP)
 r_w = False
-w_w = True
+w_w = False
 
 im_actual_size = [4, 4]
 im_size = [64, 64]
@@ -63,9 +63,9 @@ robot_vel = 1  # robot velocity
 starting_cost = 20  # constant cost for starting the base
 timeout = 99999999999  # timeout for end the planning phase
 D = 1  # robot basic reachability area. This is used for speeding up sampling
-time_budget = 300
+time_budget = 1000
 CPU_USE = 12
-top_n = 5
+top_n = 20
 loaded_object_pose = [0.15, -0.3]
 # for globally storing table positions of the current scene
 CUR_TABLE_POSITIONS = [[-3, 0.2], [-3, 1], [-1.7, 0.2], [-1.7, 1], [1.25, 0],
@@ -109,6 +109,7 @@ def euler_to_quat(roll, pitch, yaw):
 
 
 init_orien = euler_to_quat(0, 0, -1.57)
+demo_orien = euler_to_quat(0, 0, 1.57)
 
 
 def filter_voronoi_non_adj(points, state_candidates):
@@ -339,18 +340,18 @@ def in_table(p, table_p):
     return False
 
 
-# def filter_infeasible_with_table(filename, tables):
-#     im = IM.open(filename)
-#     pixels = im.load()
-#     w, h = im.size
-#     for i in range(0, w):
-#         for j in range(0, h):
-#             for t in tables:
-#                 t_p = point_to_pixel(t,(0,0),(10,10), (160,160))
-#                 if in_table((i,j), t_p):
-#                     pixels[i,j] = 0
-#                     break
-#     im.save("global_heatmap.png")
+def filter_infeasible_with_table(filename, tables):
+    im = IM.open(filename)
+    pixels = im.load()
+    w, h = im.size
+    for i in range(0, w):
+        for j in range(0, h):
+            for t in tables:
+                t_p = point_to_pixel(t, (0, 0), (10, 10), (160, 160))
+                if in_table((i, j), t_p):
+                    pixels[i, j] = 0
+                    break
+    im.save("global_heatmap.png")
 
 
 def capture_image(old_camera_state, target, filename, rotation):
@@ -378,6 +379,18 @@ def capture_env(old_camera_state, target, env_name):
     new_camera_state.pose.position = Point(target[0], target[1], 3.46489 * 2.5)
     set_state = rospy.ServiceProxy('/gazebo/set_model_state', SetModelState)
     cp = camera_processor('/top_down_cam/image_raw')
+    set_state(new_camera_state)
+    time.sleep(1)
+    cp.save_image(env_name)
+
+
+def capture_env_high(old_camera_state, target, env_name):
+    new_camera_state = ModelState()
+    new_camera_state.model_name = "distorted_camera1"
+    new_camera_state.pose.orientation = euler_to_quat(0, 1.57, 1.57)
+    new_camera_state.pose.position = Point(target[0], target[1], 3.46489 * 2.5)
+    set_state = rospy.ServiceProxy('/gazebo/set_model_state', SetModelState)
+    cp = camera_processor('/top_down_cam/image_high')
     set_state(new_camera_state)
     time.sleep(1)
     cp.save_image(env_name)
@@ -695,6 +708,7 @@ def cmaes_new(combined, seq, object_positions, added_state_pixel, feas_dict,
     all_rates = []
     for g in range(generations):
         # print ("CMA-ES generation: "+str(g))
+
         pop_point = optimizer.ask()
 
         scores = []
@@ -704,9 +718,7 @@ def cmaes_new(combined, seq, object_positions, added_state_pixel, feas_dict,
             standing_positions = []
 
             is_valid = True
-            for i in range(
-                    len(seq)
-            ):  #TODO: here it seems like there is a bug :( we should use other iterators other than i
+            for i in range(len(seq)):
 
                 standing_positions.append([point[i * 2], point[i * 2 + 1]])
                 # early feedback
@@ -1189,11 +1201,13 @@ def main():
     ac.open_gripper()
     ac.go_to_init_joints()
     vo = voronoi(160, 160, 10, 10, [0, 0])
+    vo_high = voronoi(512, 512, 10, 10, [0, 0])
     #vo.generate_voronoi(object_positions, [[1, 2], [3, 4]])
     set_state = rospy.ServiceProxy('/gazebo/set_model_state', SetModelState)
     model_coordinates = rospy.ServiceProxy('/gazebo/get_model_state',
                                            GetModelState)
     old_camera_state = model_coordinates("distorted_camera", "")
+    high_camera_state = model_coordinates("distorted_camera1", "")
     test_spawner = rospy.ServiceProxy("/gazebo/spawn_sdf_model", SpawnModel)
     test_remover = rospy.ServiceProxy("/gazebo/delete_model", DeleteModel)
 
@@ -1214,7 +1228,7 @@ def main():
     with open("cost_cache_5k.json", 'r') as f:
         cost_cache = json.load(f)
 
-    for object_num in [5]:
+    for object_num in [7]:
         if object_num == 5:
             diff = 0
         elif object_num == 6:
@@ -1225,7 +1239,7 @@ def main():
             diff = 3
         else:
             diff = 4
-        for task_idx in range(0, task_num):
+        for task_idx in range(16, task_num):
 
             cs = scene_sampler(object_num, len(CUR_TABLE_POSITIONS))
             sim_cs = scene_sampler(object_num, 1)
@@ -1277,11 +1291,13 @@ def main():
             cs.spawn_object_no_sample(object_positions)
             cs.spawn_chair_no_sample(chair_positions, chair_oriens)
             capture_env(
-                old_camera_state, (0, 0), "log/envs/diff_" + str(diff) +
+                old_camera_state, (10, 10), "log/envs/diff_" + str(diff) +
                 "_task_" + str(task_idx) + '.jpg')
-
             # start planning
-
+            capture_env_high(high_camera_state, (0, 0), "demo_background.png")
+            # cs.delete_all()
+            # sim_cs.delete_all()
+            # return
             # construct similar env next to the original one for getting top-down observations
             sim_chair_positions = []
             for p in chair_positions:
@@ -1470,7 +1486,7 @@ def main():
                             if in_table((i, j), t_p):
                                 pixel_feas_dict[object_n][(i, j)] = 0
 
-            vo.generate_voronoi(object_positions, [[1, 2], [3, 4]])
+            # vo.generate_voronoi(object_positions, [[1, 2], [3, 4]])
             for global_heatmap_num in range(0, object_num):
                 visualize_heatmap(pixel_feas_dict, state_pixel_dict,
                                   [global_heatmap_num])
@@ -1558,7 +1574,7 @@ def main():
                 updated_state_candidates = []
                 for i in range(1):
                     topn_sorted_weights.append(1)
-                    updated_state_candidates.append([])
+                    updated_state_candidates.append([[0, 6], [1, 2]])
 
             if r_c or r_w:
                 topn_sorted_weights = []
@@ -1578,6 +1594,13 @@ def main():
             timestamp = datetime.datetime.utcnow().strftime("%Y%m%d-%H%M%S")
 
             os.mkdir('cmaes_log/' + timestamp)
+
+            for sv in updated_state_candidates:
+                vo_high.generate_voronoi(object_positions, sv)
+            # cs.delete_all()
+            # sim_cs.delete_all()
+            # return
+
             for k in range(CPU_USE):
                 log_f = 'cmaes_log/' + timestamp + '/cpu_' + str(k) + '/'
                 log_fs.append(log_f)
@@ -1621,6 +1644,9 @@ def main():
             # print(return_q)
 
             best_plan = plan_results[-1]
+            cs.delete_all()
+            sim_cs.delete_all()
+            return
 
             # ****************************************************************************
 
@@ -1732,6 +1758,7 @@ def main():
 
             cs.delete_all()
             sim_cs.delete_all()
+            break
 
         print("success_rate: \n" + str(total_success_rate))
         print("avg: \n" +
