@@ -21,4 +21,15 @@ object_rearrangement/src/models/
 object_rearrangement/src/Model_zoo/
 
 
+
+wiping/src/wiping_log/
+wiping/src/eval/
+wiping/src/wiping_data/
+object_rearrangement/src/models/
+object_rearrangement/src/Model_zoo/
+
+wiping/Pytorch-UNet/cpt/
+
+
+
 *.pyc
